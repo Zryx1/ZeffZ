@@ -1,9 +1,9 @@
 ====================================
-Foto:https://raw.githubusercontent.com/Zryx1/TesHtmlZeff/refs/heads/main/IMG_20260214_125718.jpg
-Nama Produk:Vps R99 C99
-Benefit:Tahan 1 Detik
-Note:Yaaa 1 Detik
-Harga:Rp 1000000
+Foto:https:
+Nama Produk:
+Benefit:
+Note:
+Harga:
 ---
 Foto:
 Nama Produk:
