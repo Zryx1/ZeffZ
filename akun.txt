@@ -1,15 +1,15 @@
 ====================================
 Foto:
-Nama:Akun Gng
-Info:Polosan
-Log:Google
-Harga:Rp 1000
+Nama:
+Info:
+Log:
+Harga:
 ---
 Foto:
-Nama:Akun Mlbb
-Info:Polosan Level 8 Unlock Ranked Cocok buat Tumbal
-Log:Moonton
-Harga:Rp 10000
+Nama:
+Info:
+Log:
+Harga:
 ---
 Foto:
 Nama:
