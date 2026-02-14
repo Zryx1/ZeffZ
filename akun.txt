@@ -1,9 +1,9 @@
 ====================================
 Foto:
-Nama:
-Info:
-Log:
-Harga:
+Nama:Akun Gng
+Info:Polosan
+Log:Google
+Harga:1000
 ---
 Foto:
 Nama:
